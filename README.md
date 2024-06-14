@@ -1,0 +1,1 @@
+az deployment group create --resource-group externalvnet-rg --template-file main.bicep --parameters location=eastus
